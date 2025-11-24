@@ -115,20 +115,3 @@ After completing this assignment, you will understand:
 * How wrapper classes help in data conversion
 * How to build a robust input system in Java
 
----
-
-## 📄 Assignment Reference
-
-This solution is built according to the **Java Programming Lab Assignment-3** requirements provided by your instructor.
-(See uploaded PDF) 
-
----
-
-If you want, I can also prepare:
-
-📌 UML Diagram
-📌 Flowchart in PNG format
-📌 Explanation PDF
-📌 GitHub-ready folder with code + README
-
-Just tell me!
